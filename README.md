@@ -1,1 +1,1 @@
-@Autor: Lucas Lescano @Fecha de Creacion: 25/05/2025 @Proyecto: Talento TechTecnologias: HTML, CSS.
+@Autor: Lucas Lescano @Fecha de Creacion: 13/10/2026 @Proyecto: Talento TechTecnologias: HTML, CSS.
